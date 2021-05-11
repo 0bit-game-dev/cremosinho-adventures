@@ -1,0 +1,3 @@
+x += hsped;
+
+y += vsped;
